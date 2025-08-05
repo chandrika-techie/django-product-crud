@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Django SQLite database
+db.sqlite3
+
+# Virtual environment
+env/
+venv/
+*.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+*.log
+*.pot
+*.py~
+.DS_Store
+
+# Media/uploads
+/media/
+/uploads/
+
+# Byte-compiled / optimized / DLL files
+*.egg-info/
+*.egg
